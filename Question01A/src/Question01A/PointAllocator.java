@@ -6,6 +6,4 @@ public interface PointAllocator {
 	double getpoints();
 	
 	void setPoints(double points);
-	
-
 }
