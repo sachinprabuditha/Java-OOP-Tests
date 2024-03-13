@@ -6,6 +6,4 @@ public class CaughtException extends Exception {
 		// TODO Auto-generated constructor stub
 		super(Message);
 	}
-
-
 }
