@@ -23,7 +23,5 @@ public class Demo{
 		Pet parrot1 = new Parrot("Walk");
 		parrot1.feed();
 		parrot1.GetTotalPoints();
-
 	}
-
 }
