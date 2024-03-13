@@ -4,7 +4,6 @@ public class Cat extends Pet{
 
 	@Override
 	public void GetTotalPoints() {
-		// TODO Auto-generated method stub
 		super.GetTotalPoints();
 	}
 
